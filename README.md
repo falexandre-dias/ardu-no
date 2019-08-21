@@ -1,2 +1,2 @@
-# ardu-no
+# arduino
 Curso Básico
