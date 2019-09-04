@@ -1,0 +1,29 @@
+Estruturas de controle
+
+Laços de repetições
+for
+
+Estruturas condicionais
+if (condição){
+  //condição verdadeira
+}
+
+if (condição){
+  //condição verdadeira
+} else{
+  //condição falsa
+}
+
+________________________________________
+Funções lógicas
+
+AND  &&
+OR   ||
+
+
+*** professorjosedeassis.com.br (simulador GITHUB)
+
+
+
+
+
